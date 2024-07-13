@@ -1,16 +1,9 @@
-# quantum_supreme
+Digital Secure Vault and QuantumGuard Banking Simulation
+Engineered an app for storing/sharing files, and passwords, while simulating banking transactions with Quantum Resistant Algos.
+– Implemented Crystal’s Kyber algorithm for quantum-safe encryption of files, passwords, and banking transactions.
+– Designed and built a user-friendly Flutter app and utilized Python (Flask) for server-side logic and API integration.
+– Utilized SQLite for efficient storage, implemented SHA-256 for Proof of Work, AES for local data encryption.
+– Created quantum-secure digital signatures for blockchain ledger technologies using ReactJS for frontend.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Link to Flutter App - https://github.com/bhavik-mangla/QuantumApp
+Link to Python Server - https://github.com/bhavik-mangla/QuantumSupreme
